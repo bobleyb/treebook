@@ -3,3 +3,9 @@ bob:
  last_name: "Bhatti"
  email: bobtest@email.com
  profile_name: "bobtest1"
+
+kam:
+ first_name: "Kam"
+ last_name: "Bhatti"
+ email: kamtest@email.com
+ profile_name: "kamtest1"

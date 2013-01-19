@@ -8,3 +8,8 @@ two:
 
   content: MyText
   user: bob
+
+three:
+  content: Kams Test
+  user: kam
+
